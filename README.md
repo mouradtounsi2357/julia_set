@@ -1,1 +1,1 @@
-# julia_set with pygame
+# julia set with pygame
